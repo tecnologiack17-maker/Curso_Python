@@ -1,0 +1,15 @@
+a = 10
+b = 3
+print ("Suma:", a + b)
+print ("Resta:", a - b)
+print ("Multiplicación:", a * b)
+print ("División:", a / b)
+print ("Módulo:", a % b)
+print ("Potencia:", a ** b)
+print ("División entera:", a // b)
+print ("Son iguales?:", a == b)
+print ("Son diferentes?:", a != b)
+print ("Es mayor?:", a > b)
+print ("Es menor?:", a < b)
+print ("Es mayor o igual?:", a >= b)
+print ("Es menor o igual?:", a <= b)
